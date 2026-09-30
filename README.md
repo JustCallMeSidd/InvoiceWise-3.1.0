@@ -1,6 +1,6 @@
 # InvoiceWise 3.1.0 — Professional GST Billing, Inventory & Manufacturing ERP
 
-![InvoiceWise Logo](public/logo.png)
+                                                                               ![InvoiceWise Logo](public/logo.png)
 
 **InvoiceWise 3.1.0** is an enterprise-grade, standalone Windows desktop ERP software engineered for chemical manufacturers, pharmaceutical formulators, cosmetic labs, packaging units, and distributors. 
 
