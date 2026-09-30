@@ -1,6 +1,6 @@
 # InvoiceWise 3.1.0 — Professional GST Billing, Inventory & Manufacturing ERP
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![InvoiceWise Logo](public/logo.png)
+![InvoiceWise Logo](public/logo.png)
 
 <img width="1671" height="941" alt="ChatGPT Image Sep 30, 2026, 04_33_12 PM" src="https://github.com/user-attachments/assets/1077aae7-ab9d-4890-9371-712038416954" />
 
